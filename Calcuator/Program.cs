@@ -12,6 +12,7 @@ namespace Calcuator
         {
             //Comment
             Console.WriteLine(1 + 2);
+            Console.WriteLine a - b ;
             Console.ReadKey();
             
             //Propose Pull Request
